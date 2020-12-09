@@ -1,5 +1,11 @@
-function addTogether() {
-  return false;
-}
+var Person = function(firstAndLast) {
+  // Only change code below this line
+  // Complete the method below and implement the others similarly
+  this.getFullName = function() {
+    return "";
+  };
+  return firstAndLast;
+};
 
-addTogether(2,3);
+var bob = new Person('Bob Ross');
+bob.getFullName();
