@@ -1,5 +1,5 @@
-function fearNotLetter(str) {
-  return str;
+function uniteUnique(arr) {
+  return arr;
 }
 
-fearNotLetter("abce");
+uniteUnique([1, 3, 2], [5, 2, 1, 4], [2, 1]);
