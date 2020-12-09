@@ -1,5 +1,5 @@
-function pairElement(str) {
+function fearNotLetter(str) {
   return str;
 }
 
-pairElement("GCG");
+fearNotLetter("abce");
