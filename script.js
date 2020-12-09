@@ -1,5 +1,5 @@
-function titleCase(str) {
-  return str;
+function frankenSplice(arr1, arr2, n) {
+  return arr2;
 }
 
-titleCase("I'm a little tea pot");
+frankenSplice([1, 2, 3], [4, 5, 6], 1);
