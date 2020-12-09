@@ -1,5 +1,5 @@
-function factorialize(num) {
-  return num;
+function findLongestWordLength(str) {
+  return str.length;
 }
 
-factorialize(5);
+findLongestWordLength("The quick brown fox jumped over the lazy dog");
