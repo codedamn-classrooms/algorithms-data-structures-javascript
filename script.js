@@ -1,5 +1,5 @@
-function convertHTML(str) {
-  return str;
+function sumFibs(num) {
+  return num;
 }
 
-convertHTML("Dolce & Gabbana");
+sumFibs(4);
