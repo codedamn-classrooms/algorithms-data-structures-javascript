@@ -1,7 +1,5 @@
-function popShift(arr) {
-  let popped; // Change this line
-  let shifted; // Change this line
-  return [shifted, popped];
-}
+const arr = [2, 4, 5, 1, 7, 5, 2, 1];
+// Only change code below this line
 
-console.log(popShift(['challenge', 'is', 'not', 'complete']));
+// Only change code above this line
+console.log(arr);
