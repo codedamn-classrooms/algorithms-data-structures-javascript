@@ -1,6 +1,5 @@
-function findElement(arr, func) {
-  let num = 0;
-  return num;
+function booWho(bool) {
+  return bool;
 }
 
-findElement([1, 2, 3, 4], num => num % 2 === 0);
+booWho(null);
