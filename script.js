@@ -1,5 +1,5 @@
-function repeatStringNumTimes(str, num) {
+function truncateString(str, num) {
   return str;
 }
 
-repeatStringNumTimes("abc", 3);
+truncateString("A-tisket a-tasket A green and yellow basket", 8);
