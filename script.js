@@ -1,8 +1,8 @@
-function htmlColorNames(arr) {
+function forecast(arr) {
   // Only change code below this line
 
-  // Only change code above this line
   return arr;
 }
 
-console.log(htmlColorNames(['DarkGoldenRod', 'WhiteSmoke', 'LavenderBlush', 'PaleTurquoise', 'FireBrick']));
+// Only change code above this line
+console.log(forecast(['cold', 'rainy', 'warm', 'sunny', 'cool', 'thunderstorms']));
