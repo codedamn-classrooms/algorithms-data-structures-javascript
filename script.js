@@ -1,5 +1,5 @@
-function booWho(bool) {
-  return bool;
+function titleCase(str) {
+  return str;
 }
 
-booWho(null);
+titleCase("I'm a little tea pot");
