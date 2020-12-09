@@ -1,5 +1,6 @@
-function sumPrimes(num) {
-  return num;
+function smallestCommons(arr) {
+  return arr;
 }
 
-sumPrimes(10);
+
+smallestCommons([1,5]);
