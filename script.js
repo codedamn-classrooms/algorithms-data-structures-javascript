@@ -1,5 +1,5 @@
-function spinalCase(str) {
+function translatePigLatin(str) {
   return str;
 }
 
-spinalCase('This Is Spinal Tap');
+translatePigLatin("consonant");
