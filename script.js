@@ -1,14 +1,26 @@
-let foods = {
-  apples: 25,
-  oranges: 32,
-  plums: 28,
-  bananas: 13,
-  grapes: 35,
-  strawberries: 27
+let users = {
+  Alan: {
+    age: 27,
+    online: true
+  },
+  Jeff: {
+    age: 32,
+    online: true
+  },
+  Sarah: {
+    age: 48,
+    online: true
+  },
+  Ryan: {
+    age: 19,
+    online: true
+  }
 };
 
-// Only change code below this line
+function isEveryoneHere(obj) {
+  // Only change code below this line
 
-// Only change code above this line
+  // Only change code above this line
+}
 
-console.log(foods);
+console.log(isEveryoneHere(users));
