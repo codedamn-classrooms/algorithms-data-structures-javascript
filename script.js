@@ -1,5 +1,5 @@
-function reverseString(str) {
-  return str;
+function factorialize(num) {
+  return num;
 }
 
-reverseString("hello");
+factorialize(5);
