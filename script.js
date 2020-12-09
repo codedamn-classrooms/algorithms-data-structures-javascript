@@ -1,5 +1,5 @@
-function mutation(arr) {
+function chunkArrayInGroups(arr, size) {
   return arr;
 }
 
-mutation(["hello", "hey"]);
+chunkArrayInGroups(["a", "b", "c", "d"], 2);
