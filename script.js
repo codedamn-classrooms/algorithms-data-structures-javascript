@@ -1,5 +1,5 @@
-function getIndexToIns(arr, num) {
-  return num;
+function mutation(arr) {
+  return arr;
 }
 
-getIndexToIns([40, 60], 50);
+mutation(["hello", "hey"]);
