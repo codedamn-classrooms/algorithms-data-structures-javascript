@@ -1,5 +1,8 @@
-const arr = [2, 4, 5, 1, 7, 5, 2, 1];
-// Only change code below this line
+function htmlColorNames(arr) {
+  // Only change code below this line
 
-// Only change code above this line
-console.log(arr);
+  // Only change code above this line
+  return arr;
+}
+
+console.log(htmlColorNames(['DarkGoldenRod', 'WhiteSmoke', 'LavenderBlush', 'PaleTurquoise', 'FireBrick']));
