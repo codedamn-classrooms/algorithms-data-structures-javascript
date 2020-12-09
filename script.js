@@ -1,5 +1,5 @@
-function translatePigLatin(str) {
+function myReplace(str, before, after) {
   return str;
 }
 
-translatePigLatin("consonant");
+myReplace("A quick brown fox jumped over the lazy dog", "jumped", "leaped");
