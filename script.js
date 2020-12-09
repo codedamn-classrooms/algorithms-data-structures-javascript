@@ -1,5 +1,5 @@
-function sumFibs(num) {
+function sumPrimes(num) {
   return num;
 }
 
-sumFibs(4);
+sumPrimes(10);
