@@ -1,5 +1,5 @@
-function bouncer(arr) {
-  return arr;
+function getIndexToIns(arr, num) {
+  return num;
 }
 
-bouncer([7, "ate", "", false, 9]);
+getIndexToIns([40, 60], 50);
