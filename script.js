@@ -1,6 +1,5 @@
-function convertToF(celsius) {
-  let fahrenheit;
-  return fahrenheit;
+function reverseString(str) {
+  return str;
 }
 
-convertToF(30);
+reverseString("hello");
