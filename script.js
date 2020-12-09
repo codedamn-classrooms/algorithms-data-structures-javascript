@@ -1,6 +1,5 @@
-function smallestCommons(arr) {
+function dropElements(arr, func) {
   return arr;
 }
 
-
-smallestCommons([1,5]);
+dropElements([1, 2, 3], function(n) {return n < 3; });
