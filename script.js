@@ -1,6 +1,5 @@
-function diffArray(arr1, arr2) {
-  var newArr = [];
-  return newArr;
+function destroyer(arr) {
+  return arr;
 }
 
-diffArray([1, 2, 3, 5], [1, 2, 3, 4, 5]);
+destroyer([1, 2, 3, 1, 2, 3], 2, 3);
